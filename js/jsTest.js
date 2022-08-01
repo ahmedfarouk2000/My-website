@@ -394,7 +394,7 @@ else {
 
 var SecButton=document.querySelector('.SecButton')
 SecButton.addEventListener('click',function(){
-    window.open('https://drive.google.com/file/d/1NJHiq_313jZVbr0TgPStXyabqBeKc32U/view?usp=sharing', '_blank');
+    window.open('https://drive.google.com/file/d/1Nj95Nee8goIeVOTtaWIlUFwJlk4oxf0A/view?usp=sharing', '_blank');
   })
 
 var CV=document.querySelector('.FirstButton')
