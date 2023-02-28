@@ -15,7 +15,7 @@ Project is created with:
 - Bootstrap
 
 
-##Visual Representation
+# Visual Representation
 
 ![Screenshot 2023-02-28 205109](https://user-images.githubusercontent.com/93868173/221952560-4c627af0-246d-463b-8681-c2bd38a1d2eb.png)
 
